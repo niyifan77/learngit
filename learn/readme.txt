@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes
 11111111111
 
+greating a new branch is quick
